@@ -20,6 +20,7 @@ The project was developed using python 3.7.6 with the following packages.
 - Counter from collections
 
 ## Files
+- data/ : Folder with dataset, schema , readme file of stack overflow, stack overflow survey details
 - EDA- Stack overflow 2020 Developers survey.ipynb : Jupyter Notebook with all the exploratory analysis and findings
 - requirements.txt : pre-requisite libraries
 
